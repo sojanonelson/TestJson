@@ -1,0 +1,23 @@
+{
+    "role": "tutor",
+    "firstname": "Alice",
+    "lastname": "Smith",
+    "email": "alice.smith@tutor.com",
+    "password": "password123",
+    "image": "/assets/Temp/tutorProfile.jpg",
+    "phone": 1234567890,
+    "age": 35,
+    "gender": "female",
+    "dob": "1989-05-10",
+    "address1": "456 Elm St",
+    "address2": "Suite 2A",
+    "city": "Springfield",
+    "state": "IL",
+    "country": "USA",
+    "district": "North",
+    "pincode": 62702,
+    "experience": 10,
+    "qualification": "PhD in Mathematics",
+    "teachingexp": 8,
+    "subjects": "Math, Physics"
+}
